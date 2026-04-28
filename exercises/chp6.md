@@ -75,7 +75,8 @@
 
 4. 다음과 같은 병렬 관계를 직렬 관계로 변환하여 ER 다이어그램으로 표현하시오. (슬라이드 나 책 235쪽)
 
-정답 : /Users/join-u/Desktop/erdplus\ \(1\).png 
+정답 : 
+![ERD 1](/Users/join-u/Desktop/erdplus%20(1).png)
 
 
 5. (________) 안에 적합한 단어는?
@@ -92,20 +93,22 @@
 
 7. 일반회원과 VIP회원을 처리하는 모든응용 프로그램이 명확히 구분되고， 추후 추가될 응용프로그램도 마찬가지다. 아래 슈퍼-서브 타입을 바르게 정제한 결과를 ER 다이어그램으로 표현하시오.
 
-정답 : /Users/join-u/Desktop/erdplus\ \(2\).png 
-
+정답 : 
+![ERD 2](/Users/join-u/Desktop/erdplus%20(2).png)
 
 
 8. 사원 가운데 일부는 관리자이므로 유일한 ‘관리자변호’와 ‘직책’， ‘임명일자’， ‘임명기간’ 속성이 필요하여 아래와 같이 사원 개체를 표현했는데， 사원 가운데 관리자의 비율은 5% 미만이다. 이 ER 델을 좀 더 효율적으로 정제해서 ER 다이어그램으로 표현하시오.
 
-정답 : /Users/join-u/Desktop/erdplus\ \(3\).png 
+정답 : 
+![ERD 3](/Users/join-u/Desktop/erdplus%20(3).png)
 
 
 9. 다음과 같이 책을 분류하기 위한 도서 코드code 개체 타입을 ER 다이어그램으로 표현하시오.
   > 도서코드
   > 1: 인문， 2 공학， 3 미술， 4 음악， 5. 취미,...
 
-정답 : /Users/join-u/Desktop/erdplus\ \(4\).png 
+정답 : 
+![ERD 4](/Users/join-u/Desktop/erdplus%20(4).png)
 
 
 10. 다음 중 속성을 검증하는 방법으로 적절하지 않는 것은?
