@@ -160,6 +160,7 @@
 
 (403쪽 참조하세요.)
 
-정답 : ![Uploading 스크린샷 2026-06-11 오후 2.35.18.png…]()
+정답 : <img width="524" height="452" alt="스크린샷 2026-06-11 오후 2 35 18" src="https://github.com/user-attachments/assets/e7a605eb-5371-42d2-a3b1-46e85812c3ff" />
+
 
 
